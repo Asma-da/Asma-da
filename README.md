@@ -19,54 +19,59 @@
 ---
 
 🚀 **About Me**  
-I'm a Data Science and AI Engineering student with 3+ years of experience in **web development, machine learning, and cybersecurity**. I deliver scalable AI solutions achieving up to 93% accuracy. I’m passionate about building intelligent systems that solve real-world problems.
+I'm a Data Science and AI Engineering student with 3+ years of experience in **web development, machine learning, and cybersecurity**. I build scalable AI solutions with real-world impact, achieving up to **93% accuracy**.  
 
-🔭 **Current Focus:**  
-- **PlantDoctor:** AI-powered plant health diagnosis app with computer vision, multi-modal fusion, and LLM recommendations using **PyTorch, TensorFlow, LangChain, Streamlit, and FastAPI**.  
-- **Wind Form Optimization:** Using **ViT-U-Net segmentation** & conditional diffusion models, deployed on **Azure Databricks** with MLflow tracking.  
-- **MediPlus:** Brain tumor detection application achieving **93% accuracy** on MRI images with **ResNet18** and optimized MongoDB workflows.  
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300" alt="AI Animation"/>
+</div>
+
+🔭 **Current Projects:**  
+- **PlantDoctor 🌱:** AI-powered plant health diagnosis app with **PyTorch, TensorFlow, LangChain, Streamlit, FastAPI**.  
+- **Wind Form Optimization 💨:** ViT-U-Net segmentation & conditional diffusion models on **Azure Databricks** with MLflow.  
+- **MediPlus 🧠:** Brain tumor detection app with **ResNet18** & MongoDB, achieving 93% accuracy.  
 
 🌱 **Learning & Exploring:**  
-- Generative AI (RAG, CREAI), Explainable AI, NLP, Computer Vision, MLOps, and deployment of AI systems in production.  
+- Generative AI (RAG, CREAI), Explainable AI, NLP, Computer Vision, MLOps, AI deployment.  
 
-👯 **Open to:**  
-- Collaboration on AI/ML projects, open-source contributions, and innovative tech solutions.  
+👯 **Open to:** Collaboration on AI/ML projects, open-source contributions, and innovative solutions.  
 
-💬 **Ask me about:**  
-Python, Machine Learning, Deep Learning, MLOps, AI deployment, and cybersecurity.  
+💬 **Ask me about:** Python, Machine Learning, Deep Learning, MLOps, AI deployment, cybersecurity.  
 
 📫 **Reach me at:** asma.daaab@gmail.com  
 
-⚡ **Fun fact:** I love solving puzzles, chess, and building creative AI solutions!  
+⚡ **Fun fact:** Solving puzzles, playing chess, and creating AI magic!  
 
 ---
 
-🛠️ **Tech Stack**
+🛠️ **Tech Stack**  
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="450" alt="Tech Animation"/>
+</div>
 <table align="center">
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/sql-icon.svg" width="65"/><br>SQL</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="65"/><br>PyTorch</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="65"/><br>TensorFlow</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="65"/><br>OpenCV</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="65"/><br>MongoDB</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/><br>Docker</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="65"/><br>React</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="65"/><br>FastAPI</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/azure-icon.svg" width="65"/><br>Azure</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/git-icon.svg" width="65"/><br>Git</td>
-  </tr>
+<tr>
+  <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
+  <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
+  <td align="center"><img src="https://techstack-generator.vercel.app/sql-icon.svg" width="65"/><br>SQL</td>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="65"/><br>PyTorch</td>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="65"/><br>TensorFlow</td>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="65"/><br>OpenCV</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="65"/><br>MongoDB</td>
+  <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/><br>Docker</td>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="65"/><br>React</td>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="65"/><br>FastAPI</td>
+  <td align="center"><img src="https://techstack-generator.vercel.app/azure-icon.svg" width="65"/><br>Azure</td>
+  <td align="center"><img src="https://techstack-generator.vercel.app/git-icon.svg" width="65"/><br>Git</td>
+</tr>
 </table>
 
 ---
 
-📊 **GitHub Stats**
+📊 **GitHub Stats**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asma-daab&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asma-daab&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asma-daab&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asma-daab&layout=compact&theme=tokyonight" height="170" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asma-daab&theme=tokyonight" alt="GitHub Streak" />
@@ -75,6 +80,9 @@ Python, Machine Learning, Deep Learning, MLOps, AI deployment, and cybersecurity
 ---
 
 🎓 **Leadership & Extracurricular Activities**
+<div align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="300" alt="Leadership Animation"/>
+</div>
 - General Secretary – **Securinets TEKUP** (2024 – 2025)  
 - HR Manager – **Securinets TEKUP** (2023 – 2024)  
 - Logistics Manager – **PenParty Event, Engineers Spark** (2023)  
