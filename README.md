@@ -1,7 +1,7 @@
 <div align="center">👩‍💻 Hello World, I'm Asma! 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C9DF7&center=true&vCenter=true&random=false&width=500&lines=Data+Science+%26+AI+Engineering;Machine+Learning+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2C9DF7&center=true&vCenter=true&lines=Data+Science+%26+AI+Engineering;Machine+Learning+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -18,57 +18,55 @@
 
 ---
 
-🚀 **About Me**  
-I'm a Data Science and AI Engineering student with 3+ years of experience in **web development, machine learning, and cybersecurity**. I build scalable AI solutions with real-world impact, achieving up to **93% accuracy**.  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300" alt="AI Animation"/>
-</div>
-
-🔭 **Current Projects:**  
-- **PlantDoctor 🌱:** AI-powered plant health diagnosis app with **PyTorch, TensorFlow, LangChain, Streamlit, FastAPI**.  
-- **Wind Form Optimization 💨:** ViT-U-Net segmentation & conditional diffusion models on **Azure Databricks** with MLflow.  
-- **MediPlus 🧠:** Brain tumor detection app with **ResNet18** & MongoDB, achieving 93% accuracy.  
-
-🌱 **Learning & Exploring:**  
-- Generative AI (RAG, CREAI), Explainable AI, NLP, Computer Vision, MLOps, AI deployment.  
-
-👯 **Open to:** Collaboration on AI/ML projects, open-source contributions, and innovative solutions.  
-
-💬 **Ask me about:** Python, Machine Learning, Deep Learning, MLOps, AI deployment, cybersecurity.  
-
-📫 **Reach me at:** asma.daaab@gmail.com  
-
-⚡ **Fun fact:** Solving puzzles, playing chess, and creating AI magic!  
+## 🚀 About Me  
+I am a **Data Science & AI Engineering student** with 3+ years of experience in **web development, machine learning, and cybersecurity**. I build scalable AI solutions with real-world impact, achieving up to **93% accuracy**. My focus is on creating intelligent systems that are both **efficient and practical**.
 
 ---
 
-🛠️ **Tech Stack**  
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="450" alt="Tech Animation"/>
-</div>
-<table align="center">
-<tr>
-  <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/sql-icon.svg" width="65"/><br>SQL</td>
-  <td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="65"/><br>PyTorch</td>
-  <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="65"/><br>TensorFlow</td>
-  <td align="center"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="65"/><br>OpenCV</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="65"/><br>MongoDB</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/><br>Docker</td>
-  <td align="center"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="65"/><br>React</td>
-  <td align="center"><img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="65"/><br>FastAPI</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/azure-icon.svg" width="65"/><br>Azure</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/git-icon.svg" width="65"/><br>Git</td>
-</tr>
-</table>
+## 🔭 Current Projects
+- **PlantDoctor 🌱** – AI-powered plant health diagnosis app using **PyTorch, TensorFlow, LangChain, Streamlit, FastAPI**.  
+- **Wind Form Optimization 💨** – ViT-U-Net segmentation & conditional diffusion models deployed on **Azure Databricks** with MLflow.  
+
 
 ---
 
-📊 **GitHub Stats**  
+## 🌱 Learning & Interests
+- Generative AI (RAG, CREAI), Explainable AI, NLP, Computer Vision, MLOps, and deployment of AI systems.  
+- Actively exploring **AI applications in real-world problem solving**.  
+
+---
+
+## 👯 Open to
+- Collaboration on AI/ML projects, open-source contributions, and innovative tech solutions.  
+- Mentorship or advice on **Python, ML, AI deployment, and cybersecurity**.  
+
+---
+
+
+## 🛠️ Tech Stack
+
+<div align="center"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="50" height="50"/></a>
+  <a href="https://databricks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" width="50" height="50"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/></a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Colab" width="50" height="50"/></a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/fr/4/45/Hugging_Face_logo.svg" alt="Hugging Face" width="50" height="50"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="50" height="50"/></a>
+</div>
+
+---
+
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asma-daab&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asma-daab&layout=compact&theme=tokyonight" height="170" />
@@ -79,10 +77,7 @@ I'm a Data Science and AI Engineering student with 3+ years of experience in **w
 
 ---
 
-🎓 **Leadership & Extracurricular Activities**
-<div align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="300" alt="Leadership Animation"/>
-</div>
+## 🎓 Leadership & Extracurricular Activities
 - General Secretary – **Securinets TEKUP** (2024 – 2025)  
 - HR Manager – **Securinets TEKUP** (2023 – 2024)  
 - Logistics Manager – **PenParty Event, Engineers Spark** (2023)  
