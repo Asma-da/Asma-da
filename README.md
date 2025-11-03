@@ -1,7 +1,5 @@
-<div align="center">👩‍💻 Hello World, I'm Asma! 👋</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2C9DF7&center=true&vCenter=true&lines=Data+Science+%26+AI+Engineering;Machine+Learning+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=0EF7FF&center=true&vCenter=true&width=800&lines=👩‍💻+Hello+World,+I'm+Asma+Daab;AI+%26+Data+Science+Engineering+Student;Machine+Learning+%26+Web+Development+Enthusiast;Cybersecurity+Aware" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -29,7 +27,7 @@ I am a **Data Science & AI Engineering student** with 3+ years of experience in 
 ---
 
 ## 🌱 Learning & Interests
-- Generative AI (RAG, CREAI), Explainable AI, NLP, Computer Vision, MLOps, and deployment of AI systems.  
+- Generative AI , Explainable AI, NLP, Computer Vision, MLOps, and deployment of AI systems.  
 - Actively exploring **AI applications in real-world problem solving**.  
 
 ---
@@ -54,8 +52,6 @@ I am a **Data Science & AI Engineering student** with 3+ years of experience in 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="50" height="50"/></a>
-  <a href="https://databricks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" width="50" height="50"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/></a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Colab" width="50" height="50"/></a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/fr/4/45/Hugging_Face_logo.svg" alt="Hugging Face" width="50" height="50"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>
@@ -64,16 +60,7 @@ I am a **Data Science & AI Engineering student** with 3+ years of experience in 
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asma-da&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asma-da&layout=compact&theme=tokyonight" height="170" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asma-da&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
----
 
 ## 🎓 Leadership & Extracurricular Activities
 - General Secretary – **Securinets TEKUP** (2024 – 2025)  
