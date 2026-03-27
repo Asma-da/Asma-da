@@ -57,19 +57,11 @@ Focus: detecting error patterns in quantum circuits and applying correction stra
 
 ---
 
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/asma-daab-b449051b6  
-- Email: asma.daaab@gmail.com  
-- Portfolio: https://asma-daab-portfolio.netlify.app  
-
----
-
 ## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Asma-da&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asma-da&layout=compact&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asma-da&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asma-da&layout=compact&hide_border=true" height="150"/>
+</p>
 ---
 
 ⚡ Building at the intersection of AI, Quantum Computing, and Security
